@@ -1,5 +1,5 @@
 //Alumnas: Cañete Alana 118985/1, Sara Arriola 118963/4
-//Video Yt: 
+//Video Yt: https://youtu.be/Rn6Y20kxNhc
 
 //Declaro las variables globales
 let estado=0;
